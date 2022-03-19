@@ -66,7 +66,7 @@ Exemplo:
 ```
 ##### Respostas
 ###### OK! - 200
-Caso esta resposta aconteça voce vai receber o token de acesso <br>
+Caso esta resposta aconteça voce vai receber o token JWT para conseguir acessar endpoints protegidos na API <br>
 Exemplo de resposta
 ```
 {
